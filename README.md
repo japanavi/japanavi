@@ -1,5 +1,5 @@
 # Hello, I'm Josh
-*****
+
 [![Gmail Badge](https://img.shields.io/badge/-apanavicius.josh146@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:apanavicius.josh146@gmail.com)](mailto:apanavicius.josh146@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-apanavicius/)](https://www.linkedin.com/in/joshua-apanavicius/)
 [![GitHub followers](https://img.shields.io/github/followers/japanavi.svg?style=social&label=Follow)](https://github.com/japanavi?tab=followers)
