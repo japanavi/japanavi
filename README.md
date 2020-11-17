@@ -5,12 +5,13 @@
 [![GitHub followers](https://img.shields.io/github/followers/japanavi.svg?style=social&label=Follow)](https://github.com/japanavi?tab=followers)
 
 ### What I am currently Pursuing
-- Finding a job
+- Finding a job or applying to graduate school
 
 ### Here are some of my interests:
 - High Energy Particle Physics
 - Machine Learning
 - Exotic Gravity
+- Condensed Matter
 
 ### Languages and Tools:
 
