@@ -9,5 +9,5 @@
 ### Here are some of my interests:
 - Quantum Computing
 - Trapped Ions
-- Quatnum Simulation
+- Quantum Simulation
 - Quantum Machine Learning
